@@ -1,0 +1,736 @@
+x,y,tags
+30,7,tottenville,sir,testing,cool,.
+41,14,atlantic,sir,.
+53,694,181,a
+53,702,190,a
+56,714,dyckman st,a
+63,27,nassau,sir,.
+64,685,175,a
+64,719,207,inwood,a
+73,33,richmond valley,sir,.
+73,590,110,cathedral pkwy,1
+73,600,116,columbia university,1
+73,613,125,1
+73,623,137,ccny,1
+73,634,145,1
+73,658,157,1
+73,672,168,washington heights,1,city
+73,693,1,181
+73,702,191,1
+73,711,dyckman st,1
+73,718,207,1
+78,524,72,1
+78,553,86,1
+78,565,96,1
+78,577,103,1
+78,727,215,1
+83,524,72,2,3
+83,565,96,2
+84,39,pleasant plains,sir,.
+84,672,168,washington heights,a
+88,675,168,washington heights,c
+91,506,66,lincoln center,1
+95,46,prince's bay,sir,.
+101,744,225,marble hill,1
+101,753,231,1
+101,761,238,1
+101,770,van cordlandt park,1
+103,666,163,amsterdam av,c
+106,52,huguenot,sir,.
+115,491,59,columbus cir,1
+115,607,125,d
+115,634,145,d
+116,59,annadale,sir,.
+118,656,155,st nick av,c
+120,496,59,columbus cir,d
+120,607,125,a
+120,634,145,a
+125,390,14,8av,a
+125,420,34,penn station,a
+125,443,42,port authority,a,timessq
+125,496,59,columbus cir,a
+125,607,c
+125,634,145,c
+126,621,135,c
+127,65,eltingville,sir,.
+130,390,14,8av,c
+130,401,23,c
+130,420,34,penn station,c
+130,443,42,port authority,c
+130,463,50,c
+130,496,59,columbus cir,c
+130,607,125,b
+130,634,145,b
+131,524,72,c
+131,543,81,museum of natural history,c
+131,554,86,c
+131,565,96,c
+131,577,103,c
+131,592,110,c
+131,599,116,c
+131,621,135,b
+135,390,14,8av,l
+135,496,59,columbus cir,b
+136,524,72,b
+136,543,81,museum of natural history,b
+136,554,86,b
+136,565,96,b
+136,577,103,b
+136,592,110,b
+136,599,116,b
+138,72,great kills,sir,.
+142,655,155,8av,d
+146,653,155,8av,b
+148,78,bay terrace,sir,one,cool,.
+149,353,pathnewest,1,offmap,journalsquare,pavonia,grovereet,lackawanna
+159,84,oakwood heights,sir,.
+161,464,50,1
+166,93,sir,.
+167,315,franklin st,1
+167,325,canal st,1
+167,345,houston st,1
+167,366,christopher st,sheridan sq,1
+167,387,14,1
+167,396,18,1
+167,401,23,1,twentythird
+167,409,28,1,30
+167,420,34,penn station,1,thirtythird
+167,443,timessq,42,1
+170,91,new drop,sir,.
+172,387,14,2,3
+172,420,34,penn station,2,3
+172,443,time sq,42,2,3
+177,443,time sq,42,q
+177,480,midtown,57,q
+178,300,chambers st, west broadway,1,pathwtc2
+180,97,grant av,sir,.
+182,147,sir,.
+182,301,chambers st,west broadway,2,3
+182,443,timessq,42,n,w,r
+182,462,49,n,w,r
+182,480,57,midtown,r
+186,149,st george,sir,.
+189,443,timessq,42,42 stree shuttle,\
+189,446,timessq,42,7
+190,103,jefferson av,sir,.
+191,468,5av,e
+191,471,5av,v
+194,637,lenox terminal,148,3
+195,153,st george ferry terminal,\
+198,142,tompkinsville,sir,.
+200,109,dongan hills,sir,.
+202,274,1
+203,291,\,wtc,offmap,newarkhmhe,exchangeplace,1,harrison,newarkhwest
+209,135,stapleton,sir,.
+209,417,34,herald sq,q
+210,390,14,6av,l
+211,115,old town,sir,.
+213,420,34,herald sq,w
+214,261,rector st,1
+216,301,chambers st,a
+216,323,canal,a
+216,353,west 4 st,washington sq,a
+216,376,\
+216,422,34,herald sq,n
+221,122,grasmere,sir,.
+221,128,clifton,sir,.
+221,301,chambers st,c
+221,323,canal st,e
+221,337,spring st,blue,c
+221,353,west 4 st,washington sq,c
+221,387,\
+221,399,\
+221,422,\
+226,292,wtc,e,worldtradectr
+226,353,west 4 st,washington sq,b,d
+226,387,14,6av,b,d
+226,422,34,herald sq,b
+226,449,bryant park,42,d
+226,462,47,50,rockerfeller center,b,d
+227,593,110,central park north,2,3
+227,599,116,3
+227,608,125,3
+227,621,135,2,3
+227,633,145,3
+231,353,west 4 st,washington sq,f,v
+231,387,14,6av,f
+231,399,f,v
+231,422,34,herald sq,f,v
+231,449,42,bryant,f,v
+231,462,50,rockerfeller center,v
+231,483,57,f
+234,241,south ferry,whitehall st,1
+236,296,park pl,2,3
+236,405,28,r,w
+240,408,28,n
+246,673,161,yankee stadium,b
+246,676,161,yankee stadium,d
+249,446,5av,7
+249,468,5av,e
+249,471,5av,v
+249,490,5av,n,r,w
+253,231,whitehall ferry terminal,\
+253,263,rector st,w,cortlandt
+254,395,23,r,w
+258,397,23,n
+259,683,167,river,av,4
+259,691,170,4
+264,243,south ferry,whitehall st,w
+264,246,south ferry,whitehall st,r
+265,669,161,yankee stadium,4
+266,383,union sq,q
+269,701,mt eden av,4
+269,710,176,4
+269,720,burnside av,4
+269,729,183,4
+269,738,fordham rd,4
+269,748,kingsbridge,4
+269,757,bedford park blvd,4
+269,766,moshulu pkwy,4
+269,776,woodlawn,4
+270,385,union sq,r,w
+273,300,city hall,r,w
+273,312,canal st,r,w
+273,342,prince st,w
+273,374,nyu,8st,r,w
+273,388,union sq,n
+278,342,prince st,n
+278,374,nyu.8st,n
+279,252,bowling green,5
+279,263,wall st,4,5
+279,278,fulton,4,5
+284,252,bowling green,4
+292,306,brooklyn bridge,chambers st,4,5
+292,387,14,5
+295,282,b'way nassau st,a
+295,285,b'way nassau st,c
+296,443,42,grdcntrl,42 street shuttle,\
+296,446,42,grdcntrl,7
+297,306,brooklyn bridge,chambers st,6
+297,320,canal st,6
+297,337,spring st,6
+297,354,bleecker st,b'way,lafayette st,6
+297,375,astor pi,6
+297,387,14,6
+297,401,23,6
+297,408,28,6
+297,417,33,6,34
+299,648,149,grand concourse,4
+302,354,bleecker st,b'way,lafayette st,6
+302,486,59,4,5
+302,553,86,4
+302,608,125,4
+302,629,138,grand concourse,4,5
+303,443,42,grdcntrl,5
+304,317,canal st,q
+307,464,51,6
+307,486,59,6
+307,519,68,hunter college 68st,6,68st,72,q
+307,533,77,6
+307,553,86,6
+307,567,96,zzz,6
+307,577,103,6,zzz
+307,593,110,6
+307,600,116,6
+307,608,125,6
+307,629,138,grand concourse,5
+308,443,42,grdcntrl,6
+310,345,bleecker st,b'way,lafayette st,d
+310,348,bleecker st,b'way,lafayette st,v
+310,681,167,d
+310,692,170,d
+310,704,174,175,d
+310,715,tremont av,d
+310,727,182,183,d
+310,738,fordham rd,d
+310,750,kingsbridge rd,d
+310,761,bedford park blvd,d
+311,259,broad st,m
+311,278,fulton st,m
+311,305,brooklyn bridge,chambers st,m
+311,320,canal st,m
+312,639,149,grand concourse,5
+312,642,149,grand concourse,2
+313,490,59,lexington,r,w
+313,503,lexington av,f
+315,681,167,b
+315,692,170,b
+315,704,174,175,b
+315,715,tremont av,b
+315,727,182,183,b
+315,738,fordham rd,b
+315,750,kingsbridge rd,b
+315,761,bedford park blvd,b
+316,259,broad st,z,j
+316,278,fulton,z,j
+316,305,brooklyn bridge,chambers st,z,j
+316,320,canal st,z,j
+326,774,norwood,205,d
+327,468,lexington av,3av,e
+327,471,lexington av,3av,v
+328,262,wall st,2,3
+328,278,fulton st,2,3
+331,332,bowery,j,z
+331,335,bowery,m
+331,390,3av,l
+337,630,3av,138,6
+337,639,3av,149,5
+337,642,3av,149,2
+346,327,grand st,b
+352,348,lower east side,2av,f
+352,351,lower east side,2av,v
+358,390,1av,l
+360,503,roosevelt island,f
+367,338,delancey st,essex st,f
+368,652,jackson av,2
+369,630,brook av,6
+371,650,jackson av,5
+376,253,clark st,2,3
+378,332,delancey st,essex st,j,z
+378,335,delancey st,essex st,m
+379,325,east broadway,f
+385,663,prospect av,2
+387,446,vernon blvd,jackson av,7
+389,468,23st,e
+389,471,23st,v
+389,661,prospect av,5
+393,234,court st,borough hall,5
+393,237,court st,borough hall,4
+393,243,court st,borough hall,2,3
+394,240,court st,borough hall,4
+394,246,court st,borough hall,r
+396,769,219,2
+396,777,225,2
+396,785,233,2
+396,792,nereid av,2
+396,800,wakefield,241,2
+397,269,high st,brooklyn bridge,a
+397,503,21,queensbringe,f
+399,630,cypress av,6
+400,762,gun hill rd,2
+401,769,219,5
+401,777,225,5
+401,785,233,5
+401,792,nereid av,5
+403,674,intervale av,2
+404,456,21,g
+407,672,intervale av,5
+407,755,burke av,2
+410,390,bedford av,l
+410,487,plaza,7
+410,490,plaza,n,w
+412,261,jay st,borough hall,a
+414,747,allerton av,2
+417,192,carrol st,g
+417,205,bergen st,g
+417,261,jay st,borough hall,c
+418,447,hunters point av,7
+421,684,simpson st,2
+421,740,pelham pkwy,2
+422,192,carroll st,f
+422,205,bergen st,f
+422,261,jay st,borough hall,f
+422,303,york st,f
+423,457,45 rd,7
+424,682,simpson st,5
+425,512,39 av,n,w
+425,523,36 av,n,w
+425,533,broadway,n
+425,543,30av,n,w,thirty,1
+425,553,astoria blvd,n,w
+425,564,astoria ditmars blvd,n,w
+426,470,long island city,court sq,g
+427,421,greenpoint av,g
+427,483,queens plaza,e
+428,732,bronx park east,2
+431,180,smith st,9,g
+431,183,smith st,9,f
+431,481,queens plaza,r
+434,240,hoyt st,2,3
+435,479,queens plaza,g
+435,698,freeman st,2
+435,706,174st,2
+435,713,west farms sq,east tremont av,2
+435,721,east 180 st,2
+436,219,hoyt st,schermerhorn st,g
+436,222,hoyt st,schermerhorn st,a
+436,225,hoyt st,schermerhorn st,c
+438,477,queens plaza,g
+440,698,freeman st,5
+440,706,174,5
+440,713,west farms sq,east tremont av,5
+440,721,east 180 st,5
+440,742,morris park,5
+440,751,pelham pkwy,5
+440,764,gun hill rd,5
+440,780,baychester av,5
+440,789,eastchester,dyre av,5
+443,255,lawrence,m
+443,258,lawrence st,r
+444,674,hunts points av,6
+445,414,nassau av,g
+449,636,east 143 st,st mary's st,6
+449,652,east 149 st,6
+449,663,longwood av,6
+449,674,hunts point av,6
+454,690,whitlock,6
+458,332,marcy av,j,z
+458,335,marcy av,m
+465,696,elder av,6
+466,234,nevins st,5
+466,237,nevins st,4,5
+466,240,nevins st,3
+466,240,nevins st,3
+469,506,26,r
+469,536,steinway st,r
+470,251,dekalb av,m
+471,180,9st,4av,g
+471,183,9st,4av,f
+474,253,dekalb av,r
+474,506,36,v
+474,536,steinway st,v
+477,255,dekalb av,b
+477,704,morrison av,sound view av,6
+479,506,36,g
+479,536,steinway st,g
+481,257,dekalb,q
+482,136,m
+482,148,25,m
+482,169,prospect av,m
+482,189,9st,4av,m
+482,204,union st,m
+482,215,paciffic st,m
+482,476,33,7,34
+487,136,d
+487,215,pacific st,d
+487,393,metropolitan av,lorimer st,l
+489,386,metropolitan av,lorimer st,g
+489,711,st lawrence av,6
+492,99,59,n
+492,136,n
+492,215,pacific st,n
+497,99,59,r
+497,110,53,r
+497,121,45,r
+497,136,r
+497,148,25,r
+497,169,prospect av,r
+497,189,9st,4av,r
+497,204,union st,r
+497,215,pacific st,r
+497,720,parkchester,6
+500,718,parkchester,6
+501,401,grahm av,l
+502,542,46,v
+502,542,46,v
+502,545,46,r
+502,548,46,g
+508,180,7av,g
+508,183,7av,f
+509,476,40,7
+509,727,castle hill av,6
+512,725,castle hill av,6
+514,94,8av,n
+521,130,9av,m
+521,133,9av,d
+521,734,serega av,6
+522,397,grand st,l
+525,732,zerega av,6
+527,94,fort hamilton pkwy,n
+531,223,atlantic av,pacific st,b
+531,335,hewes st,j
+531,338,hewes st,m
+532,127,ft hamilton pkwy,d
+533,741,westchester sq,east tremont av,6
+534,225,atlantic av,pacific st,q
+535,389,montrose av,l
+537,476,46,7
+537,739,westchester sq,east tremont av,6
+538,227,atlantic av,pacific st,5
+539,169,15,prospect park,g
+539,172,15,prospect park,f
+540,118,50,d
+541,229,atlantic av,pacific st,4
+541,229,atlantic av,pacific st,4
+541,542,northern blvd,v
+541,542,northern blvd,v
+541,545,northern blvd,r
+541,548,northern blvd,g
+545,231,atlav,pacific st,2,3,b
+545,749,middletown rd,6
+548,243,fulton st,g
+550,94,62,new utrecht av,n
+550,211,7av,b
+552,106,d
+554,213,7av,q
+556,225,bergen st,2,3
+557,100,62,new utrecht av,d
+557,240,lafayette av,c
+557,756,buhre av,6
+561,754,buhre av,6
+564,389,morgan av,l
+567,155,ft hamilton pkwy,g
+569,485,52,7
+569,763,pelham bay park,6
+570,88,71,d
+571,157,ft hamilton pkwy,f
+572,329,b'way union av,g
+573,761,pelham bay park,6
+574,258,clinton av,washington av,g
+580,77,79,d
+581,335,lorimer st,j
+581,338,lorimer st,m
+584,134,kensington,church av,g
+584,208,grand army plaza,2,3
+585,319,myrtle av,wiloughby av,g
+587,136,kensington, church av,f
+589,502,woodside,61,7,61woodside
+591,94,18av,n
+592,65,18av,d
+592,542,65,v
+592,542,65,v
+592,545,65,r
+592,548,65,g
+593,500,woodside,61,7
+596,271,classon av,g
+601,128,ditmas av,f
+602,309,myrtle av,wiloughby av,g
+605,94,20av,n
+607,335,flushing av,j
+607,338,flushing av,m
+609,48,20av,m
+609,51,20av,d
+614,282,bedford av,nostrand av,g
+615,119,18av,f
+617,514,69,7
+618,170,prospect park,b
+619,198,eastern pkwy,2,3
+620,244,clinton av,washington av,c
+622,172,prospect park,q
+624,396,jefferson st,l
+630,111,avenue i,f
+631,48,bensonhurst bay pkwy,m
+631,51,bensonhurst bay pkwy,d
+633,251,franklin av,c
+635,170,prospect park,\
+635,216,botanic garden,franklin av,\
+635,228,park pi,\
+635,243,franklin av,\
+636,536,jksnht, roosevelt av,74,b'way,f
+636,539,jksnht, roosevelt av,74,b'way,e
+636,542,jksnht, roosevelt av,74,b'way,v
+636,545,jksnht, roosevelt av,74,b'way,r
+636,548,jksnht, roosevelt av,74,b'way,g
+638,332,myrtle av,broadway,z
+638,335,myrtle av,broadway,j
+638,338,myrtle av,broadway,m
+639,161,parkside av,q
+641,153,church av,b
+641,153,church av,b
+641,212,botanic garden, franklin av,2,3
+644,102,bay pkwy,f
+644,530,74,b'way,7
+645,155,church av,q
+645,210,botanic garden, franklin av,4
+648,208,botanic garden, franklin av,5
+654,264,nostrand av,c
+656,145,beverley rd,q
+657,261,nostrand av,a
+658,94,avenue n,f
+658,396,de kelb av,l
+664,335,kosciuszko st,j
+668,138,cortelyou rd,q
+671,357,central av,m
+672,85,avenue p,f
+677,128,newkirk av,b
+679,279,kingston av,throop av,c
+681,130,newkirk av,q
+684,39,coney island,stillwell av,d
+685,332,gates av,z
+685,335,gates av,j
+686,77,kings hwy,f
+687,37,coney island,stillwell av,n
+691,35,coney island,stillwell av,f
+692,559,82,jksnht,7
+693,123,avenue h,q
+694,33,coney island,stillwell av,q
+695,542,elmhurst av,v
+695,545,elmhurst av,r
+695,548,elmhurst av,g
+700,374,knickerbocker av,m
+701,68,avenue u,f
+701,240,nostrand av,2,3
+703,228,president st,5
+705,294,utica av,c
+706,115,avenue j,q
+706,335,halsey st,j
+707,231,president st,2
+709,292,utica av,a
+710,63,avenue x,f
+711,571,90,7
+714,49,west 8 st,ny aquarium,f
+714,222,sterling st,5
+715,256,kingston av,3
+715,396,myrtle av,wyckoff av,l
+718,47,west 8 st,ny aquarium,q
+718,108,avenue u,q
+718,224,strling st,2
+725,216,winthrop st,5
+727,98,kings hwy,b
+727,98,kings hwy,b
+727,391,myrtle av,wyckoff av,m
+727,408,seneca av,palmetto st,m
+727,421,forest av,67 av,m
+727,434,fresh pond rd,67av,67 av,m
+727,447,middle village,metropolitan av,m
+727,585,junction blvd,7
+728,218,church av,2
+730,100,kings hwy,q
+730,332,chauncey st,z
+730,335,chauncey st,j
+730,582,junction blvd,7
+731,310,ralph av,c
+736,209,church av,5
+737,533,grand av,newtown,v
+737,536,grand av,newtown,r
+737,539,grand av,newtown,g
+739,211,church av,2
+741,272,crown heights, utica av,3,crownhts
+743,93,avenue u,q
+747,69,brighton beach,b
+747,69,brighton beach,b
+747,202,beverley rd,5
+749,396,halsey st,l
+749,594,103,corona plaza,7
+750,204,beverley rd,2
+751,67,brighton beach,q
+755,85,neck rd,q
+756,325,rockaway av,c
+757,77,sheepshead bay,b
+757,363,aberdeen st,bushwick av,l
+757,377,wilson av,l
+758,196,newkirk av,5
+760,533,woodhaven blvd,v
+760,536,woodhaven blvd,r,woodhavenblvd,m
+760,539,woodhaven blvd,g
+761,198,newkirk av,2
+766,345,broadway junction,l
+768,189,brooklyn college,flatbush av,5
+769,274,sutter av,rutland rd,3
+769,605,111,7
+772,191,brooklyn college,flatbush av,2
+775,345,broadway junction,j
+779,343,broadway junction,z
+781,617,mets willets point,7
+782,341,broadway junction,c
+784,615,mets willets point,7
+786,339,broadway junction,a
+790,533,63 dr,rego park,v
+790,536,63 dr,rego park,r
+790,539,63 dr,rego park,g
+791,354,alabama av,j
+793,278,saratoga av,3
+796,327,atlantic av,l
+802,340,liberty av,c
+805,631,flushing main st,7
+808,629,flushing main st,7
+809,365,van siclen av,j
+810,288,rockaway av,3
+812,363,van siclen av,z
+813,317,sutter av,l
+821,533,67av,v
+821,536,67av,r
+821,539,67av,g
+824,374,cleveland st,j
+827,299,junius st,3
+827,308,livonia av,l
+838,348,van siclen av,c
+839,431,cypress hills,j
+842,385,norwood av,j
+845,383,norwood av,z
+846,310,pennsylvania av,3
+847,297,new lots av,l
+849,274,canarsie,rockaway pkwy,l
+849,286,east 105 st,l
+851,438,elderts lane,75,j
+851,528,forest hills, 71 av,f
+851,531,forest hills, 71 av,r
+851,534,forest hills, 71 av,v
+851,537,forest hills, 71 av,r
+851,540,forest hills, 71 av,g
+854,436,elderts lane,75,z
+860,319,van siclen av,3
+862,362,shepherd av,c
+865,399,crescent st,fulton st,j
+865,447,85 st,forest pkwy,j
+867,528,75 av,75av,f
+867,531,75 av,75av,e
+869,397,crescent st,fulton st,z
+877,328,east new york,new lots av,3
+880,456,woodhaven blvd,j
+884,454,woodhaven blvd,z
+891,528,kew gardens,union turnpike,f
+891,531,kew gardens,union turnpike,e,kewest
+896,465,104,j
+897,383,euclid av,c
+899,463,104st,z
+901,381,euclid av,a
+913,475,111 st,j
+919,528,121,f
+919,531,brianwood,van wyck blvd,e
+926,396,grant av,a
+928,484,j
+932,482,z
+935,411,a
+946,417,a
+955,423,a
+955,522,f,sutphin,e
+964,510,e
+967,430,a
+977,436,a
+977,535,f
+981,506,e
+984,504,j
+988,442,a
+988,502,z
+991,500,\
+999,548,f
+1002,519,e,jamaicacenter
+1006,517,j
+1009,515,z
+1019,560,f
+1023,392,a
+1050,376,a
+1053,378,\
+1073,388,\
+1117,386,\
+1125,263,\
+1128,261,a
+1136,320,\
+1139,271,\
+1140,322,a
+1143,269,a
+1153,280,\
+1157,278,a
+1163,373,\
+1164,391,\
+1168,289,\
+1171,287,a
+1182,397,\
+1183,367,\
+1190,302,a
+1199,307,a
+1203,374,\
+1204,389,\
+1208,313,a
+1217,318,a
+1226,324,a
+1236,329,a
+1259,77
+1260,81
+1260,117
+1264,115
+1269,83
+1407,169
+1451,195
+1470,207
